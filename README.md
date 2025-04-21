@@ -47,9 +47,9 @@ The author accepts no liability for any damages, outages, data loss, or costs re
 - SSH Public Key
 
 # Using this code
-1. Configure the environment under `envs/dev/env.hcl` and the general project configuration under `root.hcl` (development)
-2. To provision the resources using terragrunt: `bash execution/apply-dev.sh`   (development)
-3. To destroy the resources using terragrunt: `bash execution/destroy-dev.sh`  (development)
+1. Configure the environment (development) under `envs/dev/env.hcl` and the general project configuration under `root.hcl` 
+2. To provision the resources using terragrunt: `bash execution/apply-dev.sh`   (for the development environment)
+3. To destroy the resources using terragrunt: `bash execution/destroy-dev.sh`  (for the development environment)
 4. Optionally configure additional environments
 
 # 🛣️ Roadmap and Scope
