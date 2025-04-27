@@ -33,10 +33,11 @@ The author accepts no liability for any damages, outages, data loss, or costs re
 
 | Video-Link       | Context       | Title       |
 |----------------|----------------|----------------|
-| [![Fully Functional K3S Cluster using Terraform with GitOps and CI/CD (Cloud-Agnostic)](./images/01-Introduction.jpg)](https://youtu.be/0hv2gsLXsis)  | 01 - Introduction  | <i>Fully Functional K3S Cluster using Terraform with GitOps and CI/CD (Cloud-Agnostic)</i>  |
+| [![Fully Functional K3S Cluster using Terraform with GitOps and CI/CD (Cloud-Agnostic)](./images/01-Introduction.png)](https://youtu.be/0hv2gsLXsis)  | 01 - Introduction  | <i>Fully Functional K3S Cluster using Terraform with GitOps and CI/CD (Cloud-Agnostic)</i>  |
 | [![Enterprise Kubernetes in Minutes - Fully Automated with Terragrunt](./images/02-Architecture.png)](https://youtu.be/atbltYN-wno) |  02 - Architecture | <i>Enterprise Kubernetes in Minutes - Fully Automated with Terragrunt</i>  |
-| [![Enterprise Kubernetes in Minutes - Fully Automated with Terragrunt](./images/03-Hetzner-and-Project.png)](https://youtu.be/Rv5R0QqQq98) |  03 - Project Setup and Hetzner Cloud Infrastructure | <i>Terragrunt Project Setup + Hetzner Cloud Infrastructure Module | K3S Build Series</i>  |
-| <i>upcoming</i> |  04 - Amazon Web Services Infrastructure | <i>upcoming</i>  |
+| [![Project Setup and Hetzner Cloud Infrastructure](./images/03-Hetzner-and-Project.png)](https://youtu.be/Rv5R0QqQq98) |  03 - Project Setup and Hetzner Cloud Infrastructure | <i>Terragrunt Project Setup + Hetzner Cloud Infrastructure Module | K3S Build Series</i>  |
+| [![AWS Infrastructure Module and Terragrunt Integration](./images/04-AWS-Module-Integration.png)](https://youtu.be/Ac-zaqfH-Vw) |  04 - AWS Cloud Infrastructure Module and Integration in the Terragrunt Project | <i>AWS Cloud Infra. Module + Terraform and Terragrunt Integration | K3S Kubernetes Cluster Build Series</i>  |
+| <i>upcoming</i> |  05 - On Premises Infrastructure Integration | <i>upcoming</i>  |
 
 
 # Prerequisites
